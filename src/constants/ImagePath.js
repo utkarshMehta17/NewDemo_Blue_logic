@@ -1,0 +1,16 @@
+export const ImagePath = {
+  homeIcon: require('../assets/icon/homeIcon.png'),
+  userIcon: require('../assets/icon/userIcon.png'),
+  activityIcon: require('../assets/icon/activityIcon.png'),
+  cartIcon: require('../assets/icon/cartIcon.png'),
+  watchlistIcon: require('../assets/icon/watchlistIcon.png'),
+  mainBackground: require('../assets/images/mainBackground.png'),
+  upperCurve: require('../assets/images/upperCurve.png'),
+  downSection: require('../assets/images/downSection.png'),
+  carMask: require('../assets/images/carMask.png'),
+  carCantainer: require('../assets/images/carCantainer.png'),
+  sideNumber: require('../assets/images/sideNumber.png'),
+  bottomCard: require('../assets/images/bottomCard.png'),
+  plusIcon: require('../assets/icon/plusIcon.png'),
+  minusIcon: require('../assets/icon/minusIcon.png'),
+};
